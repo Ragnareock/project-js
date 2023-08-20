@@ -16,7 +16,7 @@ import {
 } from './js/books_api.js';
 import { getBookById } from './js/books_api.js';
 
-//переключние темы. Не удалять!!!
+//переключние темы.
 
 
 
